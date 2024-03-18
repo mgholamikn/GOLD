@@ -1,4 +1,4 @@
-
+![alt text](figures/Fig1.png)
 # Install dependencies:
 ```conda env create -f environment.yml```
 
