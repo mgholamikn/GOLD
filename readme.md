@@ -1,4 +1,9 @@
-![alt text](figures/Fig1.png)
+# GOLD: Generalized Knowledge Distillation via Out-of-Distribution-Guided Language Data Generation 
+
+
+<p align="center">
+<img src="figures/Fig1.png?raw=true" alt="alt text" width="440" height="204">
+</p> 
 # Install dependencies:
 ```conda env create -f environment.yml```
 
